@@ -15,6 +15,6 @@ Credentials and coursework. A reviewer verifies a credential through its issuer 
 
 Working code and notes from guided projects live in a dedicated repo rather than as loose PDFs. Depth of work beats a stack of completion certificates.
 
-- **Power BI for Data Analytics — Full Course for Beginners** (Luke Barousse): completed the full course; capstone artifact is the [Job Postings Dashboard](https://github.com/Spendry/job-postings-dashboard).
+- **Power BI for Data Analytics - Full Course for Beginners** (Luke Barousse): completed the full course; capstone artifact is the [Job Postings Dashboard](https://github.com/Spendry/job-postings-dashboard).
 
 ---
