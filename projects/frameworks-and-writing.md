@@ -26,13 +26,3 @@ A gamified social app built on a hearth-and-fire metaphor. Posts decay toward de
 - **Shows:** product design, game mechanics, and a survival model with epoch stamps, slew caps, and branch mechanics.
 
 ---
-
-## Migrating site content into repos
-
-Several of these pieces used to live on halfhumandraft.com. With the site down during your degree work, give each framework a home in its own repo:
-
-- Put the release paper or series text in the repo as Markdown.
-- Add any interactive dashboard as its own HTML file, viewable through a raw link or GitHub Pages.
-- Keep the CC BY 4.0 license note in each repo so the terms travel with the content.
-
-When the site returns, point each repo back at its live page, and point the site back at the repo. Traffic flows both ways.
