@@ -11,7 +11,7 @@ A Power BI dashboard analyzing 478,895 tech job postings from 2024 across ten da
 ![Job Postings Dashboard overview](../assets/job-postings-dashboard-overview.png)
 
 - **Repo:** https://github.com/Spendry/job-postings-dashboard
-- **Shows:** BI report design, DAX measures, drill-through and bookmark navigation, custom tooltip pages, and a custom theme.
+- **Shows:** BI report design, drill-through and bookmark navigation, and a custom theme.
 
 ## PoE Market Pipeline
 
