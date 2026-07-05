@@ -40,7 +40,8 @@ See the case study: [projects/data-analytics.md](projects/data-analytics.md)
 
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
-| Sieve Sort | An adaptive C sorting algorithm with a window detector routing layer | Low-level algorithm design, benchmarking rigor | [_link_](#) |
+| Pendry Sort | Twelve sorting algorithms from first principles, one 35-pattern benchmark | Algorithm design, benchmarking rigor, honest accounting | [repo](https://github.com/Spendry/pendry-sort) |
+| Sieve Sort | An adaptive C sorting algorithm with a window detector routing layer | Low-level algorithm design, benchmarking rigor | [repo](https://github.com/Spendry/pendry-sort) |
 | Confirmed Position Detection | An O(n) global correctness certificate using prefix and suffix bounds | Original algorithm work, complexity reasoning | [_link_](#) |
 
 See the case study: [projects/systems-and-algorithms.md](projects/systems-and-algorithms.md)
