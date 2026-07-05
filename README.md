@@ -9,7 +9,7 @@
 
 A curated index of my work across AI engineering, data and analytics, systems and algorithms, and original frameworks. Each entry links out to its own repo so you can clone, read, or run it on its own terms.
 
-Pursuing a WGU B.S. in AI Engineering. Background in operations production leadership at a medical device company, plus a self-taught stack across data pipelines, algorithm design, and applied theory.
+Preparing for a WGU B.S. in AI Engineering. Background in operations production leadership at a medical device company, plus a self-taught stack across data pipelines, algorithm design, and applied theory.
 
 <!-- Website returning after degree work: https://halfhumandraft.com -->
 
