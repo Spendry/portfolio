@@ -27,6 +27,13 @@ A three-part probabilistic model that ties error probability to rework labor cos
 - **Repo:** _add link_
 - **Shows:** applied statistics grounded in a real operations problem, and analysis a decision-maker can act on.
 
+## Analyst Operating Manual
+
+An operating manual for sitting in a junior quantitative research analyst's chair and learning the job by doing it: the seven-step loop, the minimal toolkit, working standards, and the review rubric, in two dialects — Lean operations and quantitative finance.
+
+- **Repo:** https://github.com/Spendry/analyst-operating-manual
+- **Shows:** analytical process design, working standards, and plain-language teaching.
+
 ---
 
 ## A note on employer work

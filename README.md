@@ -32,6 +32,7 @@ See the case study: [projects/ai-engineering.md](projects/ai-engineering.md)
 | Job Postings Dashboard | Power BI report on 478K tech job postings from 2024 | BI report design, DAX, drill-throughs, custom theming | [repo](https://github.com/Spendry/job-postings-dashboard) |
 | PoE Market Pipeline | API to PostgreSQL to FastAPI to Power BI, served over a tunnel | End-to-end data engineering, API design, BI delivery | [_link_](#) |
 | Counting Accuracy Framework | A three-part probabilistic model of error, rework cost, and throughput | Applied statistics, business-facing analysis | [_link_](#) |
+| Analyst Operating Manual | An operating manual for learning the junior quant analyst job by doing it | Process design, working standards, plain-language teaching | [repo](https://github.com/Spendry/analyst-operating-manual) |
 
 See the case study: [projects/data-analytics.md](projects/data-analytics.md)
 
@@ -48,6 +49,7 @@ See the case study: [projects/systems-and-algorithms.md](projects/systems-and-al
 
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
+| Generative Research Methods | A framework-engineering curriculum published with its practice manual | Method design, curriculum architecture, long-form writing | [repo](https://github.com/Spendry/generative-research-methods) |
 | Redistribution Field Theory | A physics framework tested against supernova, chronometer, and BAO datasets | Theory building, data confrontation, release-paper writing | [_link_](#) |
 | Boundary-Naive Set Theory | A set-theory framework published as a 20-part series | Formal reasoning, sustained long-form output | [_link_](#) |
 | Repost | A gamified social app built on a hearth-and-fire decay metaphor | Product design, game mechanics, systems modeling | [_link_](#) |

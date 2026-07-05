@@ -4,6 +4,13 @@ Original frameworks across physics, mathematics, and product design, each publis
 
 ---
 
+## Generative Research Methods
+
+A curriculum for framework engineering: five axioms, five terms, and a kill-condition protocol that has students test their own ideas in public. Published together with The Node-Space Navigation Guide, the practice manual its first term trains from. CC BY 4.0.
+
+- **Repo:** https://github.com/Spendry/generative-research-methods
+- **Shows:** method design, curriculum architecture, and sustained long-form writing.
+
 ## Redistribution Field Theory
 
 A physics framework confronted with real data: Pantheon+ supernovae, cosmic chronometers, and DESI DR2 BAO measurements. Shipped as a forum-ready release paper with an outreach kit.
