@@ -19,5 +19,3 @@ An O(n) global correctness certificate. It uses prefix-max and suffix-min bounds
 - **Shows:** original algorithm work and clear complexity reasoning, refined across several iterations.
 
 ---
-
-_Both entries reward a reader who runs the benchmarks. Include a one-command build and a results table in each repo README so they do not have to take the numbers on faith._
