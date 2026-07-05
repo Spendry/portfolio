@@ -1,5 +1,5 @@
 <!--
-  MAINTENANCE NOTES
+  MAINTENANCE NOTES — full checklist and instructions: MAINTENANCE.md
   1. Fill the link cells marked _link_ with real repo URLs as repos go public.
   2. Delete rows you do not want to show. Curate hard. Five strong beats forty weak.
   3. The website line is commented out below. Un-hide it when halfhumandraft.com returns.
