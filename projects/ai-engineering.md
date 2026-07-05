@@ -26,5 +26,3 @@ A skill system that rolls a business concept, packages it into a founder-ready s
 - **Shows:** pipeline design, staged validation, output you can run again and again with consistent quality.
 
 ---
-
-_Replace the placeholder links as each repo goes public. Keep write-ups tight. A reader spends two minutes here before deciding to clone._
