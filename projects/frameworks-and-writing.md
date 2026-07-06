@@ -13,9 +13,9 @@ A curriculum for framework engineering: five axioms, five terms, and a kill-cond
 
 ## Redistribution Field Theory
 
-A physics framework confronted with real data: Pantheon+ supernovae, cosmic chronometers, and DESI DR2 BAO measurements. Shipped as a forum-ready release paper with an outreach kit.
+A physics framework confronted with real data: Pantheon+ supernovae, cosmic chronometers, and DESI DR2 BAO measurements. Shipped as a versioned release paper with a standalone companion model paper, a failure ledger, and pre-registered kill conditions on every test.
 
-- **Repo:** _add link_
+- **Repo:** https://github.com/Spendry/redistribution-field-theory
 - **Shows:** theory building that meets observation, and the willingness to test an idea against public datasets.
 
 ## Boundary-Naive Set Theory
