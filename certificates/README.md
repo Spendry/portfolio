@@ -8,8 +8,7 @@ Credentials and coursework. A reviewer verifies a credential through its issuer 
 
 | Credential | Issuer | Date | Verify |
 |---|---|---|---|
-| _Credential name_ | _Issuer_ | _YYYY-MM_ | [verify](#) |
-| _Credential name_ | _Issuer_ | _YYYY-MM_ | [verify](#) |
+| [Introduction to Python](./bootdev-intro-to-python.png) | Boot.dev | 2025-07 | [verify](https://www.boot.dev/certificates/f47455ef-fb8c-429f-a4c7-4979f5ef572e) |
 
 ## Hands-on Coursework
 
