@@ -18,6 +18,7 @@ Answer these first. They decide everything below.
 6. **Is anything private in it?** No employer data, internal screenshots, real names, or keys. When unsure, leave it out and describe the capability in prose instead; the note at the bottom of [projects/data-analytics.md](projects/data-analytics.md) shows the pattern.
 7. **Can it be shown live?** GitHub READMEs can't embed iframes or scripts, so screenshots are the standard. A live link (Power BI publish-to-web, GitHub Pages, a hosted demo) is an optional extra, added as a plain link. Check what publishing exposes before using it.
 8. **Is it worth a slot?** Curate hard. Five legible projects with clean READMEs beat forty items in a drawer. If adding it means the section table stops fitting on one screen, consider what to remove.
+9. **Do the skills lines have sign-off?** Before adding or updating any "Shows:" line, or any other claim about skills used or learned, check with Sam first. A project sometimes needs a clarification he hasn't given yet, and a published skills claim is a resume claim.
 
 ## Adding a new project (its own repo)
 
