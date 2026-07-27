@@ -1,8 +1,15 @@
 # AI Engineering
 
-Work spanning model architecture, applied front-end tools, and pipeline systems that produce repeatable output.
+Work spanning model architecture, applied front-end tools, empirical research, and pipeline systems that produce repeatable output.
 
 ---
+
+## Ensemble Spread Is Not Posterior Uncertainty
+
+A small empirical result that bridges two published papers on deep-ensemble uncertainty. On a regression task with a deliberate hole in the training data, the correct Bayesian posterior under each width's implicit prior holds flat while the ensemble spread that practitioners read as epistemic uncertainty collapses by 7.7x across a 32x range of width. The collapse belongs to the estimator, not the thing measured.
+
+- **Repo:** https://github.com/Spendry/ensemble-spread
+- **Shows:** empirical ML research, reproducible experiment design, and honest failure accounting.
 
 ## BNLM Architecture
 

@@ -19,6 +19,7 @@ Preparing for a WGU B.S. in AI Engineering. Background in operations production 
 
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
+| Ensemble Spread Is Not Posterior Uncertainty | A width-invariance test showing deep-ensemble spread collapses 7.7x while the correct Bayesian posterior holds flat | Empirical ML research, reproducible experiment design, honest failure accounting | [repo](https://github.com/Spendry/ensemble-spread) |
 | BNLM Architecture | A boundary-native language model design, published as a structured series | Novel architecture reasoning, formal write-up discipline | [_link_](#) |
 | Personal Development Stack | React app tracking tracks, boosts, and lanes with local persistence | Front-end build, state design, shipping a usable tool | [_link_](#) |
 | Concept Foundry Pipeline | A skill system that rolls, packages, and validates startup concepts | Systems thinking, pipeline design, repeatable output | [_link_](#) |
@@ -51,6 +52,7 @@ See the case study: [projects/systems-and-algorithms.md](projects/systems-and-al
 |---|---|---|---|
 | Generative Research Methods | A framework-engineering curriculum published with its practice manual | Method design, curriculum architecture, long-form writing | [repo](https://github.com/Spendry/generative-research-methods) |
 | Redistribution Field Theory | A physics framework tested against supernova, chronometer, and BAO datasets | Theory building, data confrontation, release-paper writing | [repo](https://github.com/Spendry/redistribution-field-theory) |
+| The Coupling Clip | A framework for why resistance to a belief tracks the cost of revising it, not the evidence, with a plain-language companion | Framework design, epistemic self-scrutiny, writing one idea at two levels | [repo](https://github.com/Spendry/coupling-clip) |
 | Boundary-Naive Set Theory | A set-theory framework published as a 20-part series | Formal reasoning, sustained long-form output | [_link_](#) |
 | Repost | A gamified social app built on a hearth-and-fire decay metaphor | Product design, game mechanics, systems modeling | [_link_](#) |
 

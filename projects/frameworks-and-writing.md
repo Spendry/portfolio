@@ -1,8 +1,15 @@
 # Frameworks and Writing
 
-Original frameworks across physics, mathematics, and product design, each published with a formal write-up.
+Original frameworks across physics, mathematics, epistemology, and product design, each published with a formal write-up.
 
 ---
+
+## The Coupling Clip
+
+A framework for why better evidence rarely changes a mind: resistance to a belief tracks the cost of revising it, not the weakness of the evidence, and the defense hides inside scale choices that look like careful analysis. The framework states its own falsification conditions and names the cases it must not explain away. Published with a plain-language companion, "The Price Tag Problem," that carries the same idea without jargon.
+
+- **Repo:** https://github.com/Spendry/coupling-clip
+- **Shows:** framework design, epistemic self-scrutiny, and writing one idea at two levels of accessibility.
 
 ## Generative Research Methods
 
