@@ -1,6 +1,6 @@
 # Frameworks and Writing
 
-Original frameworks across physics, mathematics, epistemology, and product design, each published with a formal write-up.
+Original frameworks across mathematics, epistemology, and product design, each published with a formal write-up.
 
 ---
 
@@ -17,13 +17,6 @@ A curriculum for framework engineering: five axioms, five terms, and a kill-cond
 
 - **Repo:** https://github.com/Spendry/generative-research-methods
 - **Shows:** method design, curriculum architecture, and sustained long-form writing.
-
-## Redistribution Field Theory
-
-A physics framework confronted with real data: Pantheon+ supernovae, cosmic chronometers, and DESI DR2 BAO measurements. Shipped as a versioned release paper with a standalone companion model paper, a failure ledger, and pre-registered kill conditions on every test.
-
-- **Repo:** https://github.com/Spendry/redistribution-field-theory
-- **Shows:** theory building that meets observation, and the willingness to test an idea against public datasets.
 
 ## Boundary-Naive Set Theory
 

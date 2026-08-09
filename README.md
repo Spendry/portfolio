@@ -51,7 +51,6 @@ See the case study: [projects/systems-and-algorithms.md](projects/systems-and-al
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
 | Generative Research Methods | A framework-engineering curriculum published with its practice manual | Method design, curriculum architecture, long-form writing | [repo](https://github.com/Spendry/generative-research-methods) |
-| Redistribution Field Theory | A physics framework tested against supernova, chronometer, and BAO datasets | Theory building, data confrontation, release-paper writing | [repo](https://github.com/Spendry/redistribution-field-theory) |
 | The Coupling Clip | A framework for why resistance to a belief tracks the cost of revising it, not the evidence, with a plain-language companion | Framework design, epistemic self-scrutiny, writing one idea at two levels | [repo](https://github.com/Spendry/coupling-clip) |
 | Boundary-Naive Set Theory | A set-theory framework published as a 20-part series | Formal reasoning, sustained long-form output | [_link_](#) |
 | Repost | A gamified social app built on a hearth-and-fire decay metaphor | Product design, game mechanics, systems modeling | [_link_](#) |
