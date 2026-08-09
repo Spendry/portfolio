@@ -42,7 +42,7 @@ See the case study: [projects/data-analytics.md](projects/data-analytics.md)
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
 | Pendry Sort | Twelve sorting algorithms from first principles, Sieve Sort among them, on one 35-pattern benchmark | Algorithm design, benchmarking rigor, honest accounting | [repo](https://github.com/Spendry/pendry-sort) |
-| Confirmed Position Detection | An O(n) global correctness certificate using prefix and suffix bounds | Original algorithm work, complexity reasoning | [_link_](#) |
+| Confirmed Position Detection | An O(n) certificate for which elements are already in their final sorted position, using prefix and suffix bounds | Reframing a known scan as a certificate, complexity reasoning, honest accounting | [repo](https://github.com/Spendry/confirmed-position-detection) |
 
 See the case study: [projects/systems-and-algorithms.md](projects/systems-and-algorithms.md)
 

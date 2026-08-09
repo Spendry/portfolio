@@ -13,9 +13,9 @@ Twelve sorting algorithms developed from one observation about disorder, consoli
 
 ## Confirmed Position Detection
 
-An O(n) global correctness certificate. It uses prefix-max and suffix-min bounds to confirm which elements sit in their final sorted position in a single pass.
+An O(n) certificate for which elements of an array already sit in their final sorted position, provable without sorting. Two linear passes, a running max and a running min, find the shortest window that still needs work; everything outside it is confirmed correct. The underlying scan is a known technique, disclosed as such; the contribution is reframing it as a certificate and putting it to work as the front end of Sieve Sort, where a nearly sorted input pays almost nothing.
 
-- **Repo:** _add link_
-- **Shows:** original algorithm work and clear complexity reasoning, refined across several iterations.
+- **Repo:** https://github.com/Spendry/confirmed-position-detection
+- **Shows:** reframing a known linear scan as a correctness certificate, clear complexity reasoning, and honest accounting of convergent work.
 
 ---
