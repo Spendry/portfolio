@@ -32,7 +32,7 @@ See the case study: [projects/ai-engineering.md](projects/ai-engineering.md)
 |---|---|---|---|
 | Job Postings Dashboard | Power BI report on 478K tech job postings from 2024 | BI report design, DAX, drill-throughs, custom theming | [repo](https://github.com/Spendry/job-postings-dashboard) |
 | PoE Market Pipeline | API to PostgreSQL to FastAPI to Power BI, served over a tunnel | End-to-end data engineering, API design, BI delivery | [_link_](#) |
-| Counting Accuracy Framework | A three-part probabilistic model of error, rework cost, and throughput | Applied statistics, business-facing analysis | [_link_](#) |
+| Counting Accuracy Framework | A three-part probabilistic model of error, rework cost, and throughput, with an optimizer | Applied statistics, business-facing analysis | [repo](https://github.com/Spendry/counting-accuracy-framework) |
 | Analyst Operating Manual | An operating manual for learning the junior quant analyst job by doing it | Process design, working standards, plain-language teaching | [repo](https://github.com/Spendry/analyst-operating-manual) |
 
 See the case study: [projects/data-analytics.md](projects/data-analytics.md)

@@ -22,9 +22,9 @@ A full pipeline that pulls market data from a game API, lands it in PostgreSQL, 
 
 ## Counting Accuracy Framework
 
-A three-part probabilistic model that ties error probability to rework labor cost and throughput time, published as a formal document.
+A three-part probabilistic model that ties error probability to rework labor cost and throughput time, published as a formal document (the Grouped Counting Error Model) with a dependency-free optimizer that finds the best group size for each of the three targets.
 
-- **Repo:** _add link_
+- **Repo:** https://github.com/Spendry/counting-accuracy-framework
 - **Shows:** applied statistics grounded in a real operations problem, and analysis a decision-maker can act on.
 
 ## Analyst Operating Manual
