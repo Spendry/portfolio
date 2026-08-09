@@ -53,7 +53,7 @@ See the case study: [projects/systems-and-algorithms.md](projects/systems-and-al
 | Generative Research Methods | A framework-engineering curriculum published with its practice manual | Method design, curriculum architecture, long-form writing | [repo](https://github.com/Spendry/generative-research-methods) |
 | The Coupling Clip | A framework for why resistance to a belief tracks the cost of revising it, not the evidence, with a plain-language companion | Framework design, epistemic self-scrutiny, writing one idea at two levels | [repo](https://github.com/Spendry/coupling-clip) |
 | Boundary-Naive Set Theory | A set-theory framework published as a 20-part series | Formal reasoning, sustained long-form output | [_link_](#) |
-| Repost | A gamified social app built on a hearth-and-fire decay metaphor | Product design, game mechanics, systems modeling | [_link_](#) |
+| Repost | A gamified social app built on a hearth-and-fire decay metaphor | Product design, game mechanics, systems modeling | [repo](https://github.com/Spendry/repost) |
 
 See the case study: [projects/frameworks-and-writing.md](projects/frameworks-and-writing.md)
 

@@ -27,9 +27,9 @@ A set-theory framework published as a 20-part series, paired with interactive da
 
 ## Repost
 
-A gamified social app built on a hearth-and-fire metaphor. Posts decay toward death unless reposts keep them alive, a deliberate counter to algorithmic feeds. A working HTML mockup exists alongside sell-sheet, playbook, and design-schema deliverables.
+A gamified social app built on a hearth-and-fire metaphor. Posts decay toward death unless reposts keep them alive, a deliberate counter to algorithmic feeds. An interactive HTML mockup exists alongside sell-sheet, playbook, and design-schema deliverables.
 
-- **Repo:** _add link_
+- **Repo:** https://github.com/Spendry/repost
 - **Shows:** product design, game mechanics, and a survival model with epoch stamps, slew caps, and branch mechanics.
 
 ---
