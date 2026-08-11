@@ -57,6 +57,16 @@ See the case study: [projects/systems-and-algorithms.md](projects/systems-and-al
 
 See the case study: [projects/frameworks-and-writing.md](projects/frameworks-and-writing.md)
 
+## Interactive Tools
+
+Browser-based tools built through guided AI development. Not original research; the value is the build and the clarity.
+
+| Project | What it is | What it shows | Link |
+|---|---|---|---|
+| The Goal Study Deck | An interactive study guide for the operations novel *The Goal* by Goldratt and Cox: synopsis, core ideas, and 50 flashcards | Guided AI development, interactive front-end design, distilling a dense text into a usable tool | [repo](https://github.com/Spendry/the-goal-study-deck) · [live](https://spendry.github.io/the-goal-study-deck/) |
+
+See the case study: [projects/interactive-tools.md](projects/interactive-tools.md)
+
 ---
 
 ## Certificates and Learning
