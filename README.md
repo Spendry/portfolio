@@ -20,9 +20,9 @@ Preparing for a WGU B.S. in AI Engineering. Background in operations production 
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
 | Ensemble Spread Is Not Posterior Uncertainty | A width-invariance test showing deep-ensemble spread collapses 7.7x while the correct Bayesian posterior holds flat | Empirical ML research, reproducible experiment design, honest failure accounting | [repo](https://github.com/Spendry/ensemble-spread) |
-| BNLM Architecture | A boundary-native language model design, published as a structured series | Novel architecture reasoning, formal write-up discipline | [_link_](#) |
-| Personal Development Stack | React app tracking tracks, boosts, and lanes with local persistence | Front-end build, state design, shipping a usable tool | [_link_](#) |
-| Concept Foundry Pipeline | A skill system that rolls, packages, and validates startup concepts | Systems thinking, pipeline design, repeatable output | [_link_](#) |
+| BNLM Architecture | A boundary-native language model design, published as a structured series | Novel architecture reasoning, formal write-up discipline | **In Progress** |
+| Personal Development Stack | React app tracking tracks, boosts, and lanes with local persistence | Front-end build, state design, shipping a usable tool | **In Progress** |
+| Concept Foundry Pipeline | A skill system that rolls, packages, and validates startup concepts | Systems thinking, pipeline design, repeatable output | **In Progress** |
 
 See the case study: [projects/ai-engineering.md](projects/ai-engineering.md)
 
@@ -31,7 +31,7 @@ See the case study: [projects/ai-engineering.md](projects/ai-engineering.md)
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
 | Job Postings Dashboard | Power BI report on 478K tech job postings from 2024 | BI report design, DAX, drill-throughs, custom theming | [repo](https://github.com/Spendry/job-postings-dashboard) |
-| PoE Market Pipeline | API to PostgreSQL to FastAPI to Power BI, served over a tunnel | End-to-end data engineering, API design, BI delivery | [_link_](#) |
+| PoE Market Pipeline | API to PostgreSQL to FastAPI to Power BI, served over a tunnel | End-to-end data engineering, API design, BI delivery | **In Progress** |
 | Counting Accuracy Framework | A three-part probabilistic model of error, rework cost, and throughput, with an optimizer | Applied statistics, business-facing analysis | [repo](https://github.com/Spendry/counting-accuracy-framework) |
 | Analyst Operating Manual | An operating manual for learning the junior quant analyst job by doing it | Process design, working standards, plain-language teaching | [repo](https://github.com/Spendry/analyst-operating-manual) |
 
@@ -52,7 +52,7 @@ See the case study: [projects/systems-and-algorithms.md](projects/systems-and-al
 |---|---|---|---|
 | Generative Research Methods | A framework-engineering curriculum published with its practice manual | Method design, curriculum architecture, long-form writing | [repo](https://github.com/Spendry/generative-research-methods) |
 | The Coupling Clip | A framework for why resistance to a belief tracks the cost of revising it, not the evidence, with a plain-language companion | Framework design, epistemic self-scrutiny, writing one idea at two levels | [repo](https://github.com/Spendry/coupling-clip) |
-| Boundary-Naive Set Theory | A set-theory framework published as a 20-part series | Formal reasoning, sustained long-form output | [_link_](#) |
+| Boundary-Naive Set Theory | A set-theory framework published as a 20-part series | Formal reasoning, sustained long-form output | **In Progress** |
 | Repost | A gamified social app built on a hearth-and-fire decay metaphor | Product design, game mechanics, systems modeling | [repo](https://github.com/Spendry/repost) |
 
 See the case study: [projects/frameworks-and-writing.md](projects/frameworks-and-writing.md)
