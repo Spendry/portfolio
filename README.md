@@ -46,6 +46,14 @@ See the case study: [projects/data-analytics.md](projects/data-analytics.md)
 
 See the case study: [projects/systems-and-algorithms.md](projects/systems-and-algorithms.md)
 
+## Hardware and Architecture
+
+| Project | What it is | What it shows | Link |
+|---|---|---|---|
+| The Temporal Generator Machine | A processor that computes control, arithmetic, and addressing from time instead of fetching instructions, reaching roughly 46x the multiply-accumulate throughput of an AVX-512 core at equal transistor budget | Processor architecture design, synthesizable RTL and simulation-based verification, honest accounting of asserted versus measured numbers | [repo](https://github.com/Spendry/temporal-generator-machine) |
+
+See the case study: [projects/hardware-and-architecture.md](projects/hardware-and-architecture.md)
+
 ## Frameworks and Writing
 
 | Project | What it is | What it shows | Link |
