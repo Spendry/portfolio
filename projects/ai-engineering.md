@@ -20,7 +20,7 @@ A boundary-native language model design, written as a structured series that mov
 
 ## Personal Development Stack
 
-A React application that tracks progress across multiple tracks, boosts, and lanes, with data that persists between sessions.
+A React application that tracks progress across multiple tracks and boosts, organised into lanes, with data that persists between sessions.
 
 - **Repo:** _add link_
 - **Shows:** front-end build skill, state management, the discipline of shipping a tool you use yourself.

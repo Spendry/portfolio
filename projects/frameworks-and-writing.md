@@ -1,6 +1,6 @@
 # Frameworks and Writing
 
-Original frameworks across mathematics, epistemology, and product design, each published with a formal write-up.
+Original frameworks in mathematics and epistemology, and in product design, each published with a formal write-up.
 
 ---
 

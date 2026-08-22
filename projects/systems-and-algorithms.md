@@ -1,6 +1,6 @@
 # Systems and Algorithms
 
-Low-level algorithm design with a focus on correctness, adaptivity, and honest benchmarking.
+Low-level algorithm design, built to adapt and benchmarked honestly.
 
 ---
 

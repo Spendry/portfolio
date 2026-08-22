@@ -21,8 +21,8 @@ Preparing for a WGU B.S. in AI Engineering. Background in operations production 
 |---|---|---|---|
 | Ensemble Spread Is Not Posterior Uncertainty | A width-invariance test showing deep-ensemble spread collapses 7.7x while the correct Bayesian posterior holds flat | Empirical ML research, reproducible experiment design, honest failure accounting | [repo](https://github.com/Spendry/ensemble-spread) |
 | BNLM Architecture | A boundary-native language model design, published as a structured series | Novel architecture reasoning, formal write-up discipline | **In Progress** |
-| Personal Development Stack | React app tracking tracks, boosts, and lanes with local persistence | Front-end build, state design, shipping a usable tool | **In Progress** |
-| Concept Foundry Pipeline | A skill system that rolls, packages, and validates startup concepts | Systems thinking, pipeline design, repeatable output | **In Progress** |
+| Personal Development Stack | React app tracking tracks and boosts across lanes, with local persistence | Front-end build, state design, shipping a usable tool | **In Progress** |
+| Concept Foundry Pipeline | A skill system that rolls startup concepts, then packages and validates them | Systems thinking, pipeline design, repeatable output | **In Progress** |
 
 See the case study: [projects/ai-engineering.md](projects/ai-engineering.md)
 
@@ -72,7 +72,7 @@ Browser-based tools built through guided AI development. Not original research; 
 
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
-| The Goal Study Deck | An interactive study guide for the operations novel *The Goal* by Goldratt and Cox: synopsis, core ideas, and 50 flashcards | Guided AI development, interactive front-end design, distilling a dense text into a usable tool | [repo](https://github.com/Spendry/the-goal-study-deck) · [live](https://spendry.github.io/the-goal-study-deck/) |
+| The Goal Study Deck | An interactive study guide for the operations novel "The Goal" by Goldratt and Cox: synopsis, core ideas, and 50 flashcards | Guided AI development, interactive front-end design, distilling a dense text into a usable tool | [repo](https://github.com/Spendry/the-goal-study-deck) · [live](https://spendry.github.io/the-goal-study-deck/) |
 
 See the case study: [projects/interactive-tools.md](projects/interactive-tools.md)
 
