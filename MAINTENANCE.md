@@ -11,11 +11,11 @@ The model, in one line: **profile repo (Spendry/Spendry) → hub (this repo) →
 Answer these first. They decide everything below.
 
 1. **Is it a project or an artifact?** A project gets its own repo: something with its own README that a reviewer could open, read, or run. An artifact goes in the `assets/` folder of the repo it supports: a single image, PDF, or document backing an existing entry.
-2. **Which section does it belong to?** AI Engineering, Data and Analytics, Systems and Algorithms, or Frameworks and Writing. Pick the one section where a hiring reviewer gains the most from seeing it.
+2. **Which section does it belong to?** AI Engineering, Data and Analytics, Systems and Algorithms, Hardware and Architecture, Frameworks and Writing, or Interactive Tools. Pick the one section where a hiring reviewer gains the most from seeing it.
 3. **What are the three facts a reviewer needs?** What it is (one sentence), what it demonstrates (name skills rather than adjectives), and one concrete anchor: a number, a benchmark, a screenshot. If you can't produce all three, it isn't ready to add yet.
 4. **Does anything need credit?** Datasets, courses, templates, themes. Credit is one plain line naming the source with a link. State the source and move on.
 5. **Do the stats hold up?** Only state a number in the exact scope it comes from. A figure that holds in one drill-through view is not a headline claim for the whole project.
-6. **Is anything private in it?** No employer data, internal screenshots, real names, or keys. When unsure, leave it out and describe the capability in prose instead; the note at the bottom of [projects/data-analytics.md](projects/data-analytics.md) shows the pattern.
+6. **Is anything private in it?** No employer data, internal screenshots, real names, or keys. Private work notes do not belong in a public repo either, even when they carry no data: naming internal systems or describing an employer's architecture is enough to identify it. When unsure, leave it out and keep the capability for an interview.
 7. **Can it be shown live?** GitHub READMEs can't embed iframes or scripts, so screenshots are the standard. A live link (Power BI publish-to-web, GitHub Pages, a hosted demo) is an optional extra, added as a plain link. Check what publishing exposes before using it.
 8. **Is it worth a slot?** Curate hard. Five legible projects with clean READMEs beat forty items in a drawer. If adding it means the section table stops fitting on one screen, consider what to remove.
 9. **Do the skills lines have sign-off?** Before adding or updating any "Shows:" line, or any other claim about skills used or learned, check first. A project sometimes needs a clarification he hasn't given yet, and a published skills claim is a resume claim.
@@ -106,5 +106,5 @@ Edit [certificates/README.md](certificates/README.md): add a table row, newest f
 - Click the new hub table row and confirm it lands on the project repo.
 - Click the project's back-link and confirm it lands back on this hub.
 - Confirm images render on GitHub (paths are case-sensitive: `assets/Overview.png` is not `assets/overview.png`).
-- Confirm no `_link_` placeholders or `(#)` stubs remain in any file you touched.
+- Confirm no placeholder link cells or `(#)` stubs remain in any file you touched.
 - Confirm nothing private or uncredited went out.
