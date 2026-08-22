@@ -51,6 +51,7 @@ See the case study: [projects/systems-and-algorithms.md](projects/systems-and-al
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
 | The Temporal Generator Machine | A processor that computes control, arithmetic, and addressing from time instead of fetching instructions, reaching roughly 46x the multiply-accumulate throughput of an AVX-512 core at equal transistor budget | Processor architecture design, synthesizable RTL and simulation-based verification, honest accounting of asserted versus measured numbers | [repo](https://github.com/Spendry/temporal-generator-machine) |
+| Janus | An architecture that observes the stream it is serving and commits to a law when it holds still, carried to DRC/LVS-clean layout on sky130 across two frozen artifacts | RTL design in Verilog, physical design through OpenLane with signoff numbers, architecture derived by removing mechanisms and measuring the cost | [repo](https://github.com/Spendry/janus) |
 
 See the case study: [projects/hardware-and-architecture.md](projects/hardware-and-architecture.md)
 
