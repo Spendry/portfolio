@@ -33,11 +33,3 @@ An operating manual for sitting in a junior quantitative research analyst's chai
 
 - **Repo:** https://github.com/Spendry/analyst-operating-manual
 - **Shows:** analytical process design, working standards, and plain-language teaching.
-
----
-
-## A note on employer work
-
-My production analytics work at a medical device employer stays private. It uses internal data and internal reporting standards, so it does not belong in a public repo. I can speak to the capability in an interview: demand forecasting reports, production attainment dashboards, refill-trigger boards, and a full data-estate mapping across curated and silver schemas, all built on a Databricks and Power BI stack.
-
-If a reviewer wants proof of BI skill, point them at the PoE pipeline above. Same skills, shareable data.
