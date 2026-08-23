@@ -22,7 +22,7 @@ A curriculum for framework engineering: five axioms, five terms, and a kill-cond
 
 A set-theory framework published as a 20-part series, paired with interactive dashboards.
 
-- **Repo:** _add link_
+- **Repo:** In Progress
 - **Shows:** sustained formal reasoning and the stamina to carry one idea across a long series.
 
 ## Repost

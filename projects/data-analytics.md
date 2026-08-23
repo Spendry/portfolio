@@ -17,7 +17,7 @@ A Power BI dashboard analyzing 478,895 tech job postings from 2024 across ten da
 
 A full pipeline that pulls market data from a game API, lands it in PostgreSQL, serves it through FastAPI, and surfaces it in Power BI over a secure tunnel.
 
-- **Repo:** _add link_
+- **Repo:** In Progress
 - **Shows:** data engineering across the stack, API design, self-hosted BI delivery, and migration runbooks between hosts.
 
 ## Counting Accuracy Framework

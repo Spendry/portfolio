@@ -15,14 +15,14 @@ A small empirical result that bridges two published papers on deep-ensemble unce
 
 A React application that tracks progress across multiple tracks and boosts, organised into lanes, with data that persists between sessions.
 
-- **Repo:** _add link_
+- **Repo:** In Progress
 - **Shows:** front-end build skill, state management, the discipline of shipping a tool you use yourself.
 
 ## Concept Foundry Pipeline
 
 A skill system that rolls a business concept, packages it into a founder-ready set of documents, and validates it against release criteria.
 
-- **Repo:** _add link_
+- **Repo:** In Progress
 - **Shows:** pipeline design, staged validation, output you can run again and again with consistent quality.
 
 ---
