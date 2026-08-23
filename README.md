@@ -20,7 +20,6 @@ Preparing for a WGU B.S. in AI Engineering. Background in operations production 
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
 | Ensemble Spread Is Not Posterior Uncertainty | A width-invariance test showing deep-ensemble spread collapses 7.7x while the correct Bayesian posterior holds flat | Empirical ML research, reproducible experiment design, honest failure accounting | [repo](https://github.com/Spendry/ensemble-spread) |
-| BNLM Architecture | A boundary-native language model design, published as a structured series | Novel architecture reasoning, formal write-up discipline | **In Progress** |
 | Personal Development Stack | React app tracking tracks and boosts across lanes, with local persistence | Front-end build, state design, shipping a usable tool | **In Progress** |
 | Concept Foundry Pipeline | A skill system that rolls startup concepts, then packages and validates them | Systems thinking, pipeline design, repeatable output | **In Progress** |
 

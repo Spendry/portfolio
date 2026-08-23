@@ -1,6 +1,6 @@
 # AI Engineering
 
-Work spanning model architecture, applied front-end tools, empirical research, and pipeline systems that produce repeatable output.
+Empirical research, applied front-end tools, and pipeline systems that produce repeatable output.
 
 ---
 
@@ -10,13 +10,6 @@ A small empirical result that bridges two published papers on deep-ensemble unce
 
 - **Repo:** https://github.com/Spendry/ensemble-spread
 - **Shows:** empirical ML research, reproducible experiment design, and honest failure accounting.
-
-## BNLM Architecture
-
-A boundary-native language model design, written as a structured series that moves from motivation to formal specification.
-
-- **Repo:** _add link_
-- **Shows:** architecture reasoning from first principles, a formal register that separates the idea from its implementation.
 
 ## Personal Development Stack
 
