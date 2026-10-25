@@ -20,7 +20,8 @@ Preparing for a WGU B.S. in AI Engineering. Background in operations production 
 | Project | What it is | What it shows | Link |
 |---|---|---|---|
 | Ensemble Spread Is Not Posterior Uncertainty | A width-invariance test showing deep-ensemble spread collapses 7.7x while the correct Bayesian posterior holds flat | Empirical ML research, reproducible experiment design, honest failure accounting | [repo](https://github.com/Spendry/ensemble-spread) |
-| Claude Code Mods | Three Claude Code mods, installable as a plugin marketplace: a design-refusal guard, a prompt-cache meter, and a cross-session goal board | Claude Code plugin development (hooks, terminal UI, slash commands), test-driven extension work, packaging tools for others to install | [repo](https://github.com/Spendry/claude-code-mods) |
+| Claude Code Mods | Five Claude Code mods, installable as a plugin marketplace: a design-refusal guard, a prompt-cache meter, a cross-session goal board, a file-tree pane, and a set of exploration agents | Claude Code plugin development (hooks, terminal UI, slash commands), test-driven extension work, packaging tools for others to install | [repo](https://github.com/Spendry/claude-code-mods) |
+| Vesta GPU | A four-form language whose compiler runs a GPT-2 decode step as one persistent CUDA kernel, 1.25x `torch.compile` at batch 1 | GPU kernel and compiler design (CUDA, NVRTC), LLM inference performance work, measurement gates set before results, checked with Nsight Compute | [repo](https://github.com/Spendry/vesta-gpu) |
 | Personal Development Stack | React app tracking tracks and boosts across lanes, with local persistence | Front-end build, state design, shipping a usable tool | **In Progress** |
 | Concept Foundry Pipeline | A skill system that rolls startup concepts, then packages and validates them | Systems thinking, pipeline design, repeatable output | **In Progress** |
 

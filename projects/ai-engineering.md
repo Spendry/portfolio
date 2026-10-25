@@ -13,10 +13,17 @@ A small empirical result that bridges two published papers on deep-ensemble unce
 
 ## Claude Code Mods
 
-Three mods that change what Claude Code does and shows, published as a plugin marketplace, so each one installs with a single command. deviation-kernel keeps the assumptions a project refuses in the system prompt and stops an edit that brings one back at the step where it lands; cache-meter shows how long the prompt cache stays warm and what a miss would cost; goal-board shows each session's goal, progress and ETA, with a board of every running session. Each ships with tests that run without a live session.
+Five mods that change what Claude Code does and shows, published as a plugin marketplace, so each one installs with a single command. deviation-kernel keeps the assumptions a project refuses in the system prompt and stops an edit that brings one back at the step where it lands; cache-meter shows how long the prompt cache stays warm and what a miss would cost; goal-board shows each session's goal, progress and ETA, with a board of every running session; file-tree shows the project's files in a pane and marks the ones Claude changed; idea-agents gives a project six exploration agents and keeps each run in its own folder. Each ships with tests that run without a live session.
 
 - **Repo:** https://github.com/Spendry/claude-code-mods
 - **Shows:** Claude Code plugin development (hooks, terminal UI, slash commands), test-driven extension work, packaging tools for others to install.
+
+## Vesta GPU
+
+A small language with four forms (law, fold, fork, residue) and a compiler that turns a program into one CUDA kernel per decode step. GPT-2 small, written in it, decodes at 1,278 tokens per second on an RTX 5070, 1.25 times `torch.compile` with CUDA graphs, and every byte it reads from GPU memory is a weight or a cached key or value, to within 5% of that floor. Each step was a gate written before its result, and the failed ones are kept: two of the KV-compression gates are still FAIL, and at batch 8 plain CUDA graphs remain faster. It carries the three verbs of [Janus](https://github.com/Spendry/janus) (receive, transform, emit) from silicon into software.
+
+- **Repo:** https://github.com/Spendry/vesta-gpu
+- **Shows:** GPU kernel and compiler design (CUDA, NVRTC), LLM inference performance work, measurement gates set before results, checked with Nsight Compute.
 
 ## Personal Development Stack
 
